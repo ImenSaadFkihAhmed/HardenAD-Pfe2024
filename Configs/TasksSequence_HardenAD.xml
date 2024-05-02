@@ -208,11 +208,11 @@
 		-->
 		<!-- FR-FR - END   -->
 		<wellKnownID objectClass="text" translateFrom="%NetBios%" translateTo="PFE2024" />
-		<wellKnownID objectClass="text" translateFrom="%domaindns%" translateTo="PFE2024.local" />
-		<wellKnownID objectClass="text" translateFrom="%DN%" translateTo="DC=PFE2024,DC=local" />
-		<wellKnownID objectClass="text" translateFrom="%RootNetBios%" translateTo="PFE2024" />
-		<wellKnownID objectClass="text" translateFrom="%Rootdomaindns%" translateTo="PFE2024" />
-		<wellKnownID objectClass="text" translateFrom="%RootDN%" translateTo="DC=PFE2024,DC=local" />
+		<wellKnownID objectClass="text" translateFrom="%domaindns%" translateTo="pfe2024.local" />
+		<wellKnownID objectClass="text" translateFrom="%DN%" translateTo="DC=pfe2024,DC=local" />
+		<wellKnownID objectClass="text" translateFrom="%RootNetBios%" translateTo="pfe2024" />
+		<wellKnownID objectClass="text" translateFrom="%Rootdomaindns%" translateTo="pfe2024" />
+		<wellKnownID objectClass="text" translateFrom="%RootDN%" translateTo="DC=pfe2024,DC=local" />
 		<wellKnownID objectClass="text" translateFrom="%AuthenticatedUsers%" translateTo="Authenticated Users" />
 		<wellKnownID objectClass="text" translateFrom="%DnsAdmins%" translateTo="DnsAdmins" />
 		<wellKnownID objectClass="text" translateFrom="%RemoteDesktopUsers%" translateTo="Remote Desktop Users" />
