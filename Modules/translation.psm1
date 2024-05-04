@@ -247,6 +247,7 @@ function Set-Translation {
 
     # Updating Values :
     # ..Domain values
+    Write-Host "The Values of $wellKnownID_Netbios"
     $wellKnownID_Netbios.translateTo   = $DomainNetBios
     $wellKnownID_domaindns.translateTo = $DomainDNS
     $wellKnownID_DN.translateTo        = $DN
